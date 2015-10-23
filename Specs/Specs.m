@@ -1,6 +1,6 @@
 //
-//  TradingFacesMobileTests.m
-//  TradingFacesMobileTests
+//  Specs.m
+//  Specs
 //
 //  Created by Evan Hughes on 10/22/15.
 //  Copyright © 2015 Evan Hughes. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface TradingFacesMobileTests : XCTestCase
+@interface Specs : XCTestCase
 
 @end
 
-@implementation TradingFacesMobileTests
+@implementation Specs
 
 - (void)setUp {
     [super setUp];

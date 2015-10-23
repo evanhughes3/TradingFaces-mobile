@@ -38,6 +38,16 @@
                ReferencedContainer = "container:TradingFacesMobile.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "4BEEC2641BD9E3CC00248210"
+               BuildableName = "Specs.xctest"
+               BlueprintName = "Specs"
+               ReferencedContainer = "container:TradingFacesMobile.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
