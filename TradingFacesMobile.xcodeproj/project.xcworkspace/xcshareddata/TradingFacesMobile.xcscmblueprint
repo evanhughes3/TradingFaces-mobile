@@ -5,17 +5,24 @@
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
     "9C17E6AC4A93E78FE05F88AE0011DD4EAD50139D" : 0,
+    "8E3EABAC3DEB540C429B3EF995370DAC6D10823F" : 0,
     "9A56B3C8EA2C4DEB60827A346D3095723E649A0D" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "96DF66C1-67EF-4E7F-BB66-E52FF51FEC2E",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
     "9C17E6AC4A93E78FE05F88AE0011DD4EAD50139D" : "TradingFacesMobile\/Externals\/cedar\/",
+    "8E3EABAC3DEB540C429B3EF995370DAC6D10823F" : "TradingFacesMobile\/Externals\/PivotalCoreKit\/",
     "9A56B3C8EA2C4DEB60827A346D3095723E649A0D" : "TradingFacesMobile\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "TradingFacesMobile",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
   "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TradingFacesMobile.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/pivotal\/PivotalCoreKit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8E3EABAC3DEB540C429B3EF995370DAC6D10823F"
+    },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/evanhughes3\/TradingFacesMobile",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",

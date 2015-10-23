@@ -1,4 +1,5 @@
 #import "Cedar.h"
+#import "UIControl+Spec.h"
 
 using namespace Cedar::Matchers;
 using namespace Cedar::Doubles;
