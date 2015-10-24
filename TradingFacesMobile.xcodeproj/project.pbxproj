@@ -192,6 +192,69 @@
 			remoteGlobalIDString = AEBCCC63168B9AF10056EE83;
 			remoteInfo = "UIKit+PivotalSpecHelper-StaticLib";
 		};
+		4B989AF81BDBF05C005A5BBA /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4B989AEB1BDBF05B005A5BBA /* Blindside.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 29CAC6E4150292AD00731862;
+			remoteInfo = Blindside;
+		};
+		4B989AFA1BDBF05C005A5BBA /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4B989AEB1BDBF05B005A5BBA /* Blindside.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 29CAC7001502932000731862;
+			remoteInfo = Specs;
+		};
+		4B989AFC1BDBF05C005A5BBA /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4B989AEB1BDBF05B005A5BBA /* Blindside.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 29997B471505EC0B00C12110;
+			remoteInfo = "Blindside-StaticLib";
+		};
+		4B989AFE1BDBF05C005A5BBA /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4B989AEB1BDBF05B005A5BBA /* Blindside.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = AE4864BD1B066F11005DB302;
+			remoteInfo = "Blindside-iOS-Framework";
+		};
+		4B989B001BDBF05C005A5BBA /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4B989AEB1BDBF05B005A5BBA /* Blindside.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = AE03FC1A1B0A57DD00013784;
+			remoteInfo = "Blindside-iOS-Framework BuildTest";
+		};
+		4B989B021BDBF05C005A5BBA /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4B989AEB1BDBF05B005A5BBA /* Blindside.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 34E710AB1B9F85210088AB71;
+			remoteInfo = "Blindside-watchOS";
+		};
+		4B989B041BDBF05C005A5BBA /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4B989AEB1BDBF05B005A5BBA /* Blindside.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 34A18BD31B9F887200A65DB3;
+			remoteInfo = "Blindside-watchOS BuildTest";
+		};
+		4B989B061BDBF05C005A5BBA /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4B989AEB1BDBF05B005A5BBA /* Blindside.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 34A18BDF1B9F887300A65DB3;
+			remoteInfo = "Blindside-watchOS BuildTest Extension";
+		};
+		4B989B201BDBF077005A5BBA /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4B989AEB1BDBF05B005A5BBA /* Blindside.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = 29997B461505EC0B00C12110;
+			remoteInfo = "Blindside-StaticLib";
+		};
 		4BEEC26A1BD9E3CC00248210 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 4B2990D71BD9DB5A00A3226E /* Project object */;
@@ -226,6 +289,7 @@
 		4B7A02451BD9F9E5005F28DB /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
 		4B7A02471BD9FA24005F28DB /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		4B7A02491BD9FA34005F28DB /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		4B989AEB1BDBF05B005A5BBA /* Blindside.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Blindside.xcodeproj; path = Blindside/Blindside.xcodeproj; sourceTree = "<group>"; };
 		4BEEC2651BD9E3CC00248210 /* Specs.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Specs.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4BEEC2691BD9E3CC00248210 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4BEEC2731BD9E4A000248210 /* ExampleSpec.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = ExampleSpec.mm; sourceTree = "<group>"; };
@@ -303,6 +367,7 @@
 		4B2991071BD9DBE800A3226E /* Externals */ = {
 			isa = PBXGroup;
 			children = (
+				4B989AEB1BDBF05B005A5BBA /* Blindside.xcodeproj */,
 				4B7A02201BD9F743005F28DB /* UIKit.xcodeproj */,
 				4B2991081BD9DCE100A3226E /* Cedar.xcodeproj */,
 			);
@@ -358,6 +423,21 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		4B989AEC1BDBF05B005A5BBA /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4B989AF91BDBF05C005A5BBA /* Blindside.framework */,
+				4B989AFB1BDBF05C005A5BBA /* Specs */,
+				4B989AFD1BDBF05C005A5BBA /* libBlindside-StaticLib.a */,
+				4B989AFF1BDBF05C005A5BBA /* Blindside.framework */,
+				4B989B011BDBF05C005A5BBA /* Blindside-iOS-Framework BuildTest.app */,
+				4B989B031BDBF05C005A5BBA /* Blindside.framework */,
+				4B989B051BDBF05C005A5BBA /* Blindside-watchOS BuildTest.app */,
+				4B989B071BDBF05C005A5BBA /* Blindside-watchOS BuildTest Extension.appex */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
 		4BEEC2661BD9E3CC00248210 /* Specs */ = {
 			isa = PBXGroup;
 			children = (
@@ -389,6 +469,7 @@
 			buildRules = (
 			);
 			dependencies = (
+				4B989B211BDBF077005A5BBA /* PBXTargetDependency */,
 			);
 			name = TradingFacesMobile;
 			productName = TradingFacesMobile;
@@ -445,6 +526,10 @@
 			productRefGroup = 4B2990E01BD9DB5A00A3226E /* Products */;
 			projectDirPath = "";
 			projectReferences = (
+				{
+					ProductGroup = 4B989AEC1BDBF05B005A5BBA /* Products */;
+					ProjectRef = 4B989AEB1BDBF05B005A5BBA /* Blindside.xcodeproj */;
+				},
 				{
 					ProductGroup = 4B2991091BD9DCE100A3226E /* Products */;
 					ProjectRef = 4B2991081BD9DCE100A3226E /* Cedar.xcodeproj */;
@@ -624,6 +709,62 @@
 			remoteRef = 4B7A02331BD9F743005F28DB /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
+		4B989AF91BDBF05C005A5BBA /* Blindside.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = Blindside.framework;
+			remoteRef = 4B989AF81BDBF05C005A5BBA /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		4B989AFB1BDBF05C005A5BBA /* Specs */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = Specs;
+			remoteRef = 4B989AFA1BDBF05C005A5BBA /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		4B989AFD1BDBF05C005A5BBA /* libBlindside-StaticLib.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libBlindside-StaticLib.a";
+			remoteRef = 4B989AFC1BDBF05C005A5BBA /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		4B989AFF1BDBF05C005A5BBA /* Blindside.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = Blindside.framework;
+			remoteRef = 4B989AFE1BDBF05C005A5BBA /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		4B989B011BDBF05C005A5BBA /* Blindside-iOS-Framework BuildTest.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = "Blindside-iOS-Framework BuildTest.app";
+			remoteRef = 4B989B001BDBF05C005A5BBA /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		4B989B031BDBF05C005A5BBA /* Blindside.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = Blindside.framework;
+			remoteRef = 4B989B021BDBF05C005A5BBA /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		4B989B051BDBF05C005A5BBA /* Blindside-watchOS BuildTest.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = "Blindside-watchOS BuildTest.app";
+			remoteRef = 4B989B041BDBF05C005A5BBA /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		4B989B071BDBF05C005A5BBA /* Blindside-watchOS BuildTest Extension.appex */ = {
+			isa = PBXReferenceProxy;
+			fileType = "wrapper.app-extension";
+			path = "Blindside-watchOS BuildTest Extension.appex";
+			remoteRef = 4B989B061BDBF05C005A5BBA /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
 /* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
@@ -672,6 +813,11 @@
 			isa = PBXTargetDependency;
 			name = "UIKit+PivotalSpecHelper-StaticLib";
 			targetProxy = 4B7A02351BD9F77A005F28DB /* PBXContainerItemProxy */;
+		};
+		4B989B211BDBF077005A5BBA /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Blindside-StaticLib";
+			targetProxy = 4B989B201BDBF077005A5BBA /* PBXContainerItemProxy */;
 		};
 		4BEEC26B1BD9E3CC00248210 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
