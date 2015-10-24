@@ -1,0 +1,15 @@
+thrust_version: 0.7
+project_name: SunrunSales
+app_name: SunrunSales
+#distribution_certificate: 'Name of Distribution Signing Certificate'
+
+spec_targets:
+  spec_bundle:
+    scheme: SunrunSales-Staging
+    type: bundle
+    build_configuration: Debug
+    device_name: iPad 2
+    os_version: 9.0
+
+spec_directories:
+  - Specs
